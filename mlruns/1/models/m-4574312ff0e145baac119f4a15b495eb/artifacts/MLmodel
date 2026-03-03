@@ -1,0 +1,23 @@
+artifact_path: /home/sansuru/dltorch/lab-4-mlp-sonar-sansuruu/mlruns/1/models/m-4574312ff0e145baac119f4a15b495eb/artifacts
+flavors:
+  python_function:
+    config:
+      device: null
+    data: data
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.pytorch
+    pickle_module_name: mlflow.pytorch.pickle_module
+    python_version: 3.10.19
+  pytorch:
+    code: null
+    model_data: data
+    pytorch_version: 2.10.0+cu130
+mlflow_version: 3.9.0
+model_id: m-4574312ff0e145baac119f4a15b495eb
+model_size_bytes: 4401
+model_uuid: m-4574312ff0e145baac119f4a15b495eb
+prompts: null
+run_id: 55ea749bfc7d4feb87fce93c47bc4382
+utc_time_created: '2026-03-01 23:42:41.982872'
